@@ -57,5 +57,5 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Descrição do que mudou"
+    git commit -m "Updated my studies"
     git push
