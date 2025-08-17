@@ -36,26 +36,26 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 
 ---
 
-Comandos que vou usar sempre que quiser atualizar o GitHub:
+## Comandos que vou usar sempre que quiser atualizar o GitHub:
 
-git status
-    - Mostra quais arquivos foram modificados, adicionados ou removidos.
-    - Útil para conferir antes de commitar.
+## git status
+    Mostra quais arquivos foram modificados, adicionados ou removidos.
+    Útil para conferir antes de commitar.
 
-git add .
-    - Adiciona todos os arquivos modificados e novos.
-    - Se quiser adicionar só um arquivo específico:
-        - git add caminho/do/arquivo.py
+## git add .
+    Adiciona todos os arquivos modificados e novos.
+    Se quiser adicionar só um arquivo específico:
+        git add caminho/do/arquivo.py
 
-git commit -m "Descrição do que mudou"
-    - Cria um commit
+## git commit -m "Descrição do que mudou"
+    Cria um commit
 
-git push
-    - Envia todas as alterações do commit atual para o repositório remoto.
-    - Como já configurou a branch principal (main), não precisa especificar nada mais.
+## git push
+    Envia todas as alterações do commit atual para o repositório remoto.
+    Como já configurou a branch principal (main), não precisa especificar nada mais.
 
-Resumo:
-git status
-git add .
-git commit -m "Descrição do que mudou"
-git push
+## Resumo:
+    git status
+    git add .
+    git commit -m "Descrição do que mudou"
+    git push
