@@ -1,6 +1,3 @@
-## README.md do Curso em Vídeo - Python (Mundos 1, 2 e 3)
-# Pode ser salvo como README.md no PyCharm
-
 ## 📌 Curso em Vídeo - Python (Mundos 1, 2 e 3)
 
 Este repositório é meu diário de estudos do **Curso em Vídeo de Python** (Gustavo Guanabara).  
