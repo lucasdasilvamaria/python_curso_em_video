@@ -14,7 +14,7 @@ Muda a pasta atual do terminal.
 
 Define onde o Python procura arquivos.
 
-    Exemplo:
+Exemplo:
 
     cd mundo-01
     python Mundo1_Ex001.py
@@ -27,7 +27,7 @@ Strings formatadas: coloca variáveis e expressões em {}.
 
 Mais legível que .format() ou +.
 
-    Exemplo:
+Exemplo:
 
     name = input("Digite seu nome: ")
     print(f"Olá, {name}")
