@@ -59,3 +59,12 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
     git add .
     git commit -m "Updated my studies"
     git push
+
+---
+
+## Definindo input como float
+
+Para receber um input como float em Python, utilize a função float() dentro da função input(). A função input() recebe a entrada do usuário como uma string, e float() converte essa string em um número de ponto flutuante (float). 
+
+numero_float = float(input("Digite um número com ponto decimal: "))
+print(numero_float)
