@@ -1,5 +1,5 @@
 # Desafio 1
-# Curso Python #04 - Primeiros comandos em Python3 (https://www.youtube.com/watch?v=31llNGKWDdo)
+# Exercício Python #002 - Respondendo ao Usuário (https://youtu.be/FNqdV5Zb_5Q?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 #
 # Crie um script Python que leia o nome de uma pessoa
 # e mostre uma mensagem de boas-vindas

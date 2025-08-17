@@ -1,5 +1,5 @@
 # Desafio 3
-# Curso Python #04 - Primeiros comandos em Python3 (https://www.youtube.com/watch?v=31llNGKWDdo)
+# Exercício Python #003 - Somando dois números (https://youtu.be/PB254Cfjlyk?si=Avi6u8pGE_pd4W0-)
 #
 # Crie um script Python que leia dois números
 # e tente mostrar a soma entre eles.
