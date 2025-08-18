@@ -6,4 +6,4 @@
 # de acordo com o valor digitado.
 
 name = input('Digite o seu nome: ')
-print(f'Olá, {name}!')
+print(f'\nOlá, {name}!')

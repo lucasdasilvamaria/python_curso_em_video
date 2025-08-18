@@ -4,4 +4,4 @@
 # e mostre na tela o seu dobro, triplo e raiz quadrada.
 
 num = float(input('Digite qualquer número: '))
-print(f"O dobro de {num} é {num*2}.\nO triplo de {num} é {num*3}.\nA raiz quadrada de {num} é {num**0.5}.")
+print(f"\nO dobro de {num} é {num*2}.\nO triplo de {num} é {num*3}.\nA raiz quadrada de {num} é {num**0.5}.")

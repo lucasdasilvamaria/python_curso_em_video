@@ -6,4 +6,4 @@
 # e mostre quantos dólares ela pode comprar.
 
 m = float(input('Digite quanto dinheiro você tem em reais (R$): '))
-print(f"Você pode comprar {m/5.6:.2f} dólares (USD).")
+print(f"\nVocê pode comprar {m/5.6:.2f} dólares (USD).")

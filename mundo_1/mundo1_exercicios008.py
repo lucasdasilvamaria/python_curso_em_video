@@ -6,6 +6,6 @@
 # e o exiba convertido em centímetros e milímetros.
 
 m = float(input('Comprimento em metros: '))
-print(f"{m:.2f} m são {m*100:.0f} cm e {m*1000:.0f} mm.")
+print(f"\n{m:.2f} m são {m*100:.0f} cm e {m*1000:.0f} mm.")
 # Esta formatação dentro do f-string mostra com 2 casas decimais
 # para metros e valores inteiros para cm e mm.

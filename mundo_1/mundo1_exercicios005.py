@@ -4,4 +4,4 @@
 # e mostre na tela o seu sucesso e seu antecessor.
 
 num = float(input('Digite qualquer número: '))
-print(f"O antecessor de {num} é {num-1}. O sucessor de {num} é {num+1}.")
+print(f"\nO antecessor de {num} é {num-1}. O sucessor de {num} é {num+1}.")

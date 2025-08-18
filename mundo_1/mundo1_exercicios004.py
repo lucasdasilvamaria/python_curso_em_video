@@ -6,7 +6,7 @@
 a = input('Digite qualquer coisa: ')
 # Lê um valor do teclado. Tudo que vem de input() é do tipo str (string).
 
-print('O tipo primitivo desse valor é:', type(a))
+print('\nO tipo primitivo desse valor é:', type(a))
 # Mostra o tipo do valor armazenado em 'a'. Aqui será sempre <class 'str'>,
 # a não ser que façamos conversão para int ou float manualmente.
 
