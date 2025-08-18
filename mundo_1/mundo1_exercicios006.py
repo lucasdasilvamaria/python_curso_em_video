@@ -1,5 +1,5 @@
-# Desafio 5
-# Exercício Python #005 - Antecessor e Sucessor (https://youtu.be/664e0G_S9nU?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+# Desafio 6
+# Exercício Python #006 - Dobro, Triplo, Raiz Quadrada (https://youtu.be/mqcNw_dhl8I?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 # Faça um programa que leia um número inteiro
 # e mostre na tela o seu dobro, triplo e raiz quadrada.
 
