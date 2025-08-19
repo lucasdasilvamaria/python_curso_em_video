@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Analisador de Textos"
+    git commit -m "Exercício Python #023 - Separando dígitos de um número"
     git push
 
 ---
