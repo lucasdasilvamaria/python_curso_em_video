@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Seno, Cosseno e Tangente"
+    git commit -m "Sorteando um Item na Lista"
     git push
 
 ---
