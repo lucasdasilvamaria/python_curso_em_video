@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Sorteando uma ordem na lista"
+    git commit -m "Analisador de Textos"
     git push
 
 ---
