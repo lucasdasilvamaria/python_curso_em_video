@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Radar eletrônico"
+    git commit -m "Par ou Ímpar?"
     git push
 
 ---
