@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Jogo da Adivinhação v.1.0"
+    git commit -m "Radar eletrônico"
     git push
 
 ---
