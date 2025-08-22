@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Exercício Python #025 - Procurando uma string dentro de outra"
+    git commit -m "Created new files for the next exercises"
     git push
 
 ---
