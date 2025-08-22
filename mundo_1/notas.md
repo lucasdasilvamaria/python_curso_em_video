@@ -57,7 +57,7 @@ Permite cálculos, listas, dicionários, datas, porcentagens e cores no terminal
 ## Resumo:
     git status
     git add .
-    git commit -m "Primeiro e último nome de uma pessoa"
+    git commit -m "Jogo da Adivinhação v.1.0"
     git push
 
 ---
