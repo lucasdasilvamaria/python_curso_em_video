@@ -1,4 +1,4 @@
-# Exercício Python #03 - Maior e menor valores
+# Exercício Python #33 - Maior e menor valores
 #
 # https://www.youtube.com/watch?v=a_8FbW5oH6I&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=34
 #
